@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java "
-date: 2024-01-05
+date: 2024-01-06
 categories: Java, Full-Stack, Roadmap,java intro
 tags: Java, Full-Stack, Development, Learning Path, Skills
 ---

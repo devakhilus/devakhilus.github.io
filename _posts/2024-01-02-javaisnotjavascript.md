@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java is not JavaScript"
-date: 2024-01-05
+date: 2024-01-07
 categories: Java, Full-Stack, Roadmap, java intro
 tags: Java, Full-Stack, Development, Learning Path, Skills
 ---
