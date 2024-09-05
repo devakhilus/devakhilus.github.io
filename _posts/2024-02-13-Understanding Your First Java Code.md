@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding Your First Java Code"
-date: 2024-02-10
+date: 2024-02-13
 categories: Java, Development
 tags: Java, Tutorial, Programming Basics
 ---
