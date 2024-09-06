@@ -10,424 +10,122 @@ tags: Java, Full-Stack, Development, Learning Path, Skills
 
 This roadmap outlines the skills and knowledge areas required for becoming a proficient Java full-stack developer. The roadmap is divided into various sections, each focusing on a different aspect of full-stack development.
 
-<details>
-<summary><strong>Core Concepts</strong></summary>
-<div>
+# Java Roadmap 🍿
 
-<details>
-<summary>Java Basics</summary>
-<div>
-<ul>
-  <li>Variables</li>
-  <li>Functions</li>
-  <li>Strings</li>
-  <li>Arrays</li>
-  <li>Loops</li>
-</ul>
-</div>
-</details>
+## Fundamentals
+- **Basics of Programming**
+  - Introduction to Java
+  - Java Development Kit (JDK) and Java Runtime Environment (JRE)
+  - Setting Up Development Environment (IDE: IntelliJ IDEA, Eclipse, etc.)
 
-<details>
-<summary>Object-Oriented Programming (OOP)</summary>
-<div>
-<ul>
-  <li>Classes/Objects</li>
-  <li>Inheritance</li>
-  <li>Polymorphism</li>
-  <li>Interfaces</li>
-  <li>Encapsulation</li>
-  <li>Abstraction</li>
-</ul>
-</div>
-</details>
+- **Syntax and Structure**
+  - Basic Syntax
+  - Variables and Data Types
+  - Operators and Expressions
 
-<details>
-<summary>Collections Framework</summary>
-<div>
-<ul>
-  <li>Lists</li>
-  <li>Maps</li>
-  <li>Sets</li>
-  <li>Stacks</li>
-  <li>Queues</li>
-  <li>Optionals</li>
-</ul>
-</div>
-</details>
+## Control Structures
+- **Conditional Statements**
+  - If-Else Statements
+  - Switch Case
 
-<details>
-<summary>Streams & Functional Programming</summary>
-<div>
-<ul>
-  <li>Streams API</li>
-  <li>Lambda Expressions</li>
-  <li>Functional Interfaces</li>
-</ul>
-</div>
-</details>
+- **Loops**
+  - For Loop
+  - While Loop
+  - Do-While Loop
 
-<details>
-<summary>Exception Handling</summary>
-<div>
-<ul>
-  <li>Checked Exceptions</li>
-  <li>Unchecked Exceptions</li>
-  <li>Custom Exceptions</li>
-</ul>
-</div>
-</details>
+- **Exception Handling**
+  - Try-Catch Block
+  - Finally Block
+  - Throw and Throws Keywords
 
-</div>
-</details>
+## Object-Oriented Programming (OOP)
+- **Basics of OOP**
+  - Classes and Objects
+  - Methods and Constructors
 
-<details>
-<summary><strong>Advanced Java</strong></summary>
-<div>
+- **Inheritance**
+  - Single and Multiple Inheritance
+  - Method Overriding
+  - Super Keyword
 
-<details>
-<summary>Concurrency and Multithreading</summary>
-<div>
-<ul>
-  <li>Threads</li>
-  <li>Synchronization</li>
-  <li>Executor Service</li>
-  <li>Future and CompletableFuture</li>
-</ul>
-</div>
-</details>
+- **Polymorphism**
+  - Method Overloading
+  - Runtime Polymorphism
+  - Dynamic Method Dispatch
 
-<details>
-<summary>Generics</summary>
-<div>
-<ul>
-  <li>Type Safety</li>
-  <li>Parameterized Types</li>
-</ul>
-</div>
-</details>
+- **Encapsulation**
+  - Access Modifiers (Public, Private, Protected)
+  - Getters and Setters
+  - Data Hiding
 
-<details>
-<summary>Design Patterns</summary>
-<div>
-<ul>
-  <li>Singleton</li>
-  <li>Factory</li>
-  <li>Observer</li>
-  <li>Strategy</li>
-</ul>
-</div>
-</details>
+- **Abstraction**
+  - Abstract Classes
+  - Interfaces
 
-<details>
-<summary>SOLID Principles</summary>
-<div>
-<ul>
-  <li>Single Responsibility Principle</li>
-  <li>Open/Closed Principle</li>
-  <li>Liskov Substitution Principle</li>
-  <li>Interface Segregation Principle</li>
-  <li>Dependency Inversion Principle</li>
-</ul>
-</div>
-</details>
+## Advanced Java
+- **Collections Framework**
+  - List (ArrayList, LinkedList)
+  - Set (HashSet, TreeSet)
+  - Map (HashMap, TreeMap)
+  - Queue (PriorityQueue, LinkedList)
 
-<details>
-<summary>Clean Code</summary>
-<div>
-<ul>
-  <li>Writing Readable Code</li>
-  <li>Refactoring Techniques</li>
-  <li>Code Smells</li>
-</ul>
-</div>
-</details>
+- **Concurrency**
+  - Multithreading (Creating Threads, Thread Lifecycle)
+  - Synchronization
+  - Concurrency Utilities (Executors Framework, Callable and Future, Locks and Semaphores)
 
-</div>
-</details>
+## Java Standard Libraries
+- **I/O Streams**
+  - File Handling (File Class, Reading and Writing Files)
+  - Streams (Byte Streams, Character Streams, Buffered Streams)
 
-<details>
-<summary><strong>Databases</strong></summary>
-<div>
+- **Networking**
+  - Sockets (TCP and UDP, Socket and ServerSocket Classes)
+  - URL and HTTP (URL Class, HttpURLConnection)
 
-<details>
-<summary>Database Design</summary>
-<div>
-<ul>
-  <li>Schema Design</li>
-  <li>Normalization</li>
-  <li>Indexes</li>
-  <li>Joins</li>
-</ul>
-</div>
-</details>
+- **JDBC**
+  - Database Connectivity (JDBC Drivers, Connection, Statement, and ResultSet)
+  - PreparedStatement and CallableStatement
 
-<details>
-<summary>SQL and Relational Databases</summary>
-<div>
-<ul>
-  <li>Queries</li>
-  <li>Transactions</li>
-  <li>JDBC</li>
-</ul>
-</div>
-</details>
+## Java Frameworks
+- **Spring Framework**
+  - Spring Core (Dependency Injection, Inversion of Control)
+  - Spring MVC (Model-View-Controller Architecture)
+  - Spring Boot (Creating Spring Boot Applications, Starters and Auto-Configuration, Actuator)
 
-<details>
-<summary>NoSQL Databases</summary>
-<div>
-<ul>
-  <li>MongoDB</li>
-  <li>Cassandra</li>
-  <li>Redis</li>
-</ul>
-</div>
-</details>
+- **Hibernate**
+  - ORM Basics (Introduction to ORM, Configuration and Mapping)
+  - Advanced Hibernate (Caching, Transactions and Concurrency, Criteria API)
 
-<details>
-<summary>Schema Migration Tools</summary>
-<div>
-<ul>
-  <li>Flyway</li>
-  <li>Liquibase</li>
-</ul>
-</div>
-</details>
+## Web Development with Java
+- **Java EE (Jakarta EE)**
+  - Servlets (Lifecycle, Handling HTTP Requests and Responses, Session Management)
+  - JavaServer Pages (JSP) (Syntax, Directives, JSTL and Custom Tags, Expression Language)
 
-</div>
-</details>
+- **RESTful Web Services**
+  - JAX-RS (Creating RESTful Services, Annotations and HTTP Methods, Consuming RESTful Services)
 
-<details>
-<summary><strong>Build Tools</strong></summary>
-<div>
+## Build Tools and Dependency Management
+- **Maven**
+  - Project Object Model (POM), Dependencies, Repositories, Build Lifecycle and Plugins
 
-<details>
-<summary>Build and Dependency Management</summary>
-<div>
-<ul>
-  <li>Maven</li>
-  <li>Gradle</li>
-  <li>Bazel</li>
-</ul>
-</div>
-</details>
+- **Gradle**
+  - Build Scripts, Dependency Management, Task Automation
 
-<details>
-<summary>Version Control</summary>
-<div>
-<ul>
-  <li>Git</li>
-  <li>GitHub</li>
-</ul>
-</div>
-</details>
+## Testing in Java
+- **Unit Testing**
+  - JUnit (Annotations, Assertions, Test Suites and Runners)
 
-</div>
-</details>
+- **Mockito**
+  - Creating Mocks and Spies, Verification
 
-<details>
-<summary><strong>Testing</strong></summary>
-<div>
+- **Integration Testing**
+  - Spring Test (Testing Spring Components and WebTestClient)
 
-<details>
-<summary>Unit Testing</summary>
-<div>
-<ul>
-  <li>JUnit</li>
-  <li>TestNG</li>
-</ul>
-</div>
-</details>
+## Deployment and DevOps
+- **Containers and Microservices**
+  - Docker (Dockerfile, Image Creation, Container Management)
+  - Kubernetes (Pods, Services, Deployments, Managing Java Applications on Kubernetes)
 
-<details>
-<summary>Mocking</summary>
-<div>
-<ul>
-  <li>Mockito</li>
-  <li>PowerMock</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Assertion Libraries</summary>
-<div>
-<ul>
-  <li>AssertJ</li>
-  <li>Hamcrest</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Integration Testing</summary>
-<div>
-<ul>
-  <li>Spring Test</li>
-  <li>Rest Assured</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Contract Testing</summary>
-<div>
-<ul>
-  <li>Pact</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
-
-<details>
-<summary><strong>APIs and Web Development</strong></summary>
-<div>
-
-<details>
-<summary>RESTful Services</summary>
-<div>
-<ul>
-  <li>REST APIs</li>
-  <li>HTTP Methods</li>
-  <li>API Design</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Web Frameworks</summary>
-<div>
-<ul>
-  <li>Spring Boot</li>
-  <li>Quarkus</li>
-  <li>Play Framework</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>How HTTP Works</summary>
-<div>
-<ul>
-  <li>HTTP/HTTPS</li>
-  <li>Request/Response Cycle</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>GraphQL</summary>
-<div>
-<ul>
-  <li>Schema Definition</li>
-  <li>Queries and Mutations</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
-
-<details>
-<summary><strong>Tools and IDEs</strong></summary>
-<div>
-
-<details>
-<summary>IDEs</summary>
-<div>
-<ul>
-  <li>IntelliJ IDEA</li>
-  <li>Eclipse</li>
-  <li>VSCode</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Debugging Skills</summary>
-<div>
-<ul>
-  <li>Breakpoints</li>
-  <li>Watchpoints</li>
-  <li>Step Over/Into</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Logging</summary>
-<div>
-<ul>
-  <li>Log4j</li>
-  <li>SLF4J</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
-
-<details>
-<summary><strong>Additional Skills</strong></summary>
-<div>
-
-<details>
-<summary>Dependency Injection</summary>
-<div>
-<ul>
-  <li>Spring</li>
-  <li>CDI (Contexts and Dependency Injection)</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>N-Tier Architecture</summary>
-<div>
-<ul>
-  <li>Presentation Layer</li>
-  <li>Business Layer</li>
-  <li>Data Layer</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>Immutability</summary>
-<div>
-<ul>
-  <li>Immutable Objects</li>
-  <li>Value Objects</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>File Handling</summary>
-<div>
-<ul>
-  <li>File I/O</li>
-  <li>Java NIO</li>
-  <li>Streams</li>
-</ul>
-</div>
-</details>
-
-<details>
-<summary>How JVM Works</summary>
-<div>
-<ul>
-  <li>Memory Management</li>
-  <li>Garbage Collection</li>
-  <li>Class Loading</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
-
----
 
 Following this roadmap will help you develop a comprehensive skill set as a Java full-stack developer. Stay consistent, practice regularly, and explore each topic thoroughly.
