@@ -10,9 +10,9 @@ tags: Download, Course
 
 To download the complete course, click the link below:
 
-**<a href="https://my.opendesktop.org/s/KnGFr2Nj5GN8efr" target="_blank">Udemy - Angular Signals - Building Quiz Angular Project 2024-7 1.3 GB</a>**  
+**<a href="https://my.opendesktop.org/s/KnGFr2Nj5GN8efr" target="_blank">Udemy - Angular Signals - Building Quiz Angular Project 2024-7 (1.3 GB)</a>**  
 
-**<a href="https://my.opendesktop.org/s/2fatXjEAWjYjdTg" target="_blank">Udemy - Complete Angular Course 2024 - Master Angular in only 6 days 2023-8 3.4 GB</a>**  
+**<a href="https://my.opendesktop.org/s/2fatXjEAWjYjdTg" target="_blank">Udemy - Complete Angular Course 2024 - Master Angular in only 6 days 2023-8 (3.4 GB)</a>**  
 
 > **Note:** Ensure you have a zip extractor to view the course materials.
 
