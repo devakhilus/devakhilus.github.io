@@ -94,6 +94,50 @@ To download the complete course, click the link below:
 > - Contract testing and its benefits
 > - Implementing contract testing with Spring Cloud Contract
 > - Contract testing for HTTP communications
+# AWS Cloud Architecture For Java Spring Boot Developers 2024-7
+
+> **Note:** ## What You Will Learn
+
+> - **AWS Services**: Gain a deep understanding of essential AWS services.
+> - **Deploying Spring Java Applications on AWS**: Master deployment techniques specific to Spring Java applications.
+> - **Content Delivery and Routing**: Learn implementation of CloudFront, edge locations, path-based routing, load balancing, and health checks.
+> - **CI/CD Pipelines**: Build and manage CI/CD pipelines using AWS services such as CodeCommit, ECR, CodeBuild, and CodePipeline.
+> - **Interview Preparation**: Prepare for interviews focused on AWS concepts and solutions.
+
+ > Prerequisites
+
+> - **No AWS Knowledge Required**: The course starts from scratch, so no prior AWS experience is needed.
+> - **Java/Spring Boot/Docker Knowledge Required**: Familiarity with these technologies is essential.
+> - **Heads Up on Costs**: Some AWS services will incur charges. Be sure to review the first lecture for more details on cost management.
+
+## Download Links
+
+> - [Part 1](https://dl3.downloadly.ir/Files/Elearning/Udemy_AWS_Cloud_Architecture_For_Java_Spring_Boot_Developers_2024-7.part1_Downloadly.ir.rar?nocache=1725592044)
+> - [Part 2](https://dl3.downloadly.ir/Files/Elearning/Udemy_AWS_Cloud_Architecture_For_Java_Spring_Boot_Developers_2024-7.part2_Downloadly.ir.rar?nocache=1725592044)
+> - [Part 3](https://dl3.downloadly.ir/Files/Elearning/Udemy_AWS_Cloud_Architecture_For_Java_Spring_Boot_Developers_2024-7.part3_Downloadly.ir.rar?nocache=1725592044)
+> - [Part 4](https://dl3.downloadly.ir/Files/Elearning/Udemy_AWS_Cloud_Architecture_For_Java_Spring_Boot_Developers_2024-7.part4_Downloadly.ir.rar?nocache=1725592044)
+
+# Build 5 Spring Boot Projects with Java: Line-by-Line Coding 2024-2
+
+> **Note:** ## What You’ll Learn
+ > - **Spring Boot Fundamentals**: Master the basics of Spring Boot.
+> - **Building REST APIs**: Learn to build REST APIs using Spring Boot with a focus on practical applications.
+> - **Todo Management Project**: Develop real-time REST APIs and secure them using Spring Security and JWT.
+> - **Expense Tracker Project**: Build REST APIs, handle exceptions, and generate REST API documentation.
+> - **Banking Application**: Create REST APIs for a banking domain, gaining insights into domain-specific application development.
+> - **Student Management System**: Create a web application using Java, Spring Boot, Thymeleaf, and MySQL.
+> - **Employee Management System**: Develop a web application with Java, Spring Boot, React JS, and MySQL.
+> Who This Course Is For
+
+> Java developers eager to master Spring Boot through hands-on project building.
+
+> ## Download Links
+
+> - [Part 1](https://dl3.downloadly.ir/Files/Elearning/Udemy_Build_5_Spring_Boot_Projects_with_Java_Line-by-Line_Coding_2024-3_Downloadly.ir.part1.rar?nocache=1725594452)
+> - [Part 2](https://dl3.downloadly.ir/Files/Elearning/Udemy_Build_5_Spring_Boot_Projects_with_Java_Line-by-Line_Coding_2024-3_Downloadly.ir.part2.rar?nocache=1725594452)
+> - [Part 3](https://dl3.downloadly.ir/Files/Elearning/Udemy_Build_5_Spring_Boot_Projects_with_Java_Line-by-Line_Coding_2024-3_Downloadly.ir.part3.rar?nocache=1725594452)
+> - [Part 4](https://dl3.downloadly.ir/Files/Elearning/Udemy_Build_5_Spring_Boot_Projects_with_Java_Line-by-Line_Coding_2024-3_Downloadly.ir.part4.rar?nocache=1725594452)
+> - [Part 5](https://dl3.downloadly.ir/Files/Elearning/Udemy_Build_5_Spring_Boot_Projects_with_Java_Line-by-Line_Coding_2024-3_Downloadly.ir.part5.rar?nocache=1725594452)
 
 ## Available PDF Resources
 
