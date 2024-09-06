@@ -10,56 +10,127 @@ tags: Download, Course
 
 To download the complete course, click the link below:
 
-**<a href="https://my.opendesktop.org/s/KnGFr2Nj5GN8efr" target="_blank">Udemy - Angular Signals - Building Quiz Angular Project 2024-7 (1.3 GB)</a>**  
+ Java Spring Framework 6 with Spring Boot 3 Course
+> **Note:** This course covers the following topics:
 
-**<a href="https://my.opendesktop.org/s/2fatXjEAWjYjdTg" target="_blank">Udemy - Complete Angular Course 2024 - Master Angular in only 6 days 2023-8 (3.4 GB)</a>**  
+> - **Java Core**: Fundamental concepts of Java.
+> - **Spring Boot**: Introduction and advanced features of Spring Boot.
+> - **Spring Core – IoC**: Inversion of Control and Dependency Injection.
+> - **Spring MVC**: Model-View-Controller framework.
+> - **Spring AOP**: Aspect-Oriented Programming.
+> - **Spring Data JPA**: Data persistence using JPA.
+> - **Rest Spring**: Building RESTful web services.
+> - **Spring Security**: Securing applications using Spring Security.
 
-> **Note:** Ensure you have a zip extractor to view the course materials.
+> ## Suitable For
+
+- > **Java Developers**: From beginners to advanced who want to master Spring framework modules with Spring Boot.
+- > **Web Application Developers**: Those who want to build their own web applications with Spring Boot.
+- > **Enterprise Application Developers**: Developers interested in using Spring Frameworks for enterprise applications.
+
+
+
+## Download Links
+
+- [Part 1](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part1.rar?nocache=1725592141)
+- [Part 2](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part2.rar?nocache=1725592141)
+- [Part 3](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part3.rar?nocache=1725592141)
+- [Part 4](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part4.rar?nocache=1725592141)
+- [Part 5](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part5.rar?nocache=1725592141)
+- [Part 6](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part6.rar?nocache=1725592141)
+- [Part 7](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part7.rar?nocache=1725592141)
+- [Part 8](https://dl3.downloadly.ir/Files/Elearning/Udemy_Java_Spring_Framework_6_with_Spring_Boot_3_2024-8_Downloadly.ir.part8.rar?nocache=1725592141)
+
+
+**[Udemy - Angular Signals - Building Quiz Angular Project 2024-7 (1.3 GB)](https://my.opendesktop.org/s/KnGFr2Nj5GN8efr){:target="_blank"}**  
+> **Note:** What you will learn in this course:
+>
+> - Building an Angular project with Angular Signals
+> - Writing high-quality code
+> - Understanding Angular Signals
+> - Dividing your program into components
+> - Using Angular Signals for state management
+> - Structuring business logic and managing state
+> - Handling component changes and re-rendering
+> - Communicating with APIs from an Angular application
+> - Deploying your Angular app
+> - Learning Angular by building a real app
+
+**[Udemy - Complete Angular Course 2024 - Master Angular in only 6 days 2023-8 (3.4 GB)](https://my.opendesktop.org/s/2fatXjEAWjYjdTg){:target="_blank"}**  
+> **Note:** What you will learn:
+>
+> - Building comprehensive web applications
+> - Using NgRx for responsive web applications
+> - Unit testing with Karma and Jasmine
+> - Communicating with web servers
+> - Features like Angular signals and effects
+
+**[Udemy – Practical Java Unit Testing with JUnit 5 2021-3 (517 MB)](https://dl3.downloadly.ir/Files/Elearning/Udemy_Practical_Java_Unit_Testing_with_JUnit_5_2021-3_Downloadly.ir.rar?nocache=1725591102){:target="_blank"}**  
+> **Note:** What you’ll learn:
+>
+> - Writing unit tests in JUnit 5
+> - Creating practical test scenarios
+> - Following unit testing best practices
+> - Running unit tests in Eclipse or IntelliJ IDEA
+> - Basic Test Driven Development (TDD)
+
+**[LinkedIn – Creating Spring Boot Microservices 2024-6 (481 MB)](https://dl.downloadly.ir/Files/Elearning/LinkedIn_Creating_Spring_Boot_Microservices_2024-6_Downloadly.ir.rar?nocache=1725589571){:target="_blank"}**  
+> **Note:** What you will learn:
+>
+> - Introduction to Spring Framework
+> - Creating a Spring Boot microservice
+> - Using Spring Data JPA
+> - Providing RESTful APIs with Spring Data REST and Spring MVC
+> - Best practices
+> - Microservices and containerized databases with Docker
+> - Creating a RESTful MongoDB microservice
+> - Creating an API gateway with Spring Cloud
+
+**[Udemy – Contract Testing with Spring Cloud Contract 2024-6 part 1 (1 GB)](https://dl.downloadly.ir/Files/Elearning/Udemy_Contract_Testing_with_Spring_Cloud_Contract_2024-6.part1_Downloadly.ir.rar?nocache=1725589570){:target="_blank"}**  
+**[Udemy – Contract Testing with Spring Cloud Contract 2024-6 part 2 (176 MB)](https://dl.downloadly.ir/Files/Elearning/Udemy_Contract_Testing_with_Spring_Cloud_Contract_2024-6.part2_Downloadly.ir.rar?nocache=1725589570){:target="_blank"}**  
+> **Note:** What you will learn:
+>
+> - Understanding different testing strategies
+> - Contract testing and its benefits
+> - Implementing contract testing with Spring Cloud Contract
+> - Contract testing for HTTP communications
 
 ## Available PDF Resources
 
 Here are some comprehensive resources that will help you master Java concepts, frameworks, and best practices. Click on the titles to download each file.
 
-1. **<a href="https://my.opendesktop.org/s/NnMWnLy34orFqsA" target="_blank">A Functional Approach to Java Augmenting Object.pdf</a>**  
-2. **<a href="https://my.opendesktop.org/s/YyiGDLFZ6QMDYEH" target="_blank">Core Java Notes.pdf</a>**  
-3. **<a href="https://my.opendesktop.org/s/Z5mSPcQ9jF4adxJ" target="_blank">Core Java. .pdf</a>**  
-4. **<a href="https://my.opendesktop.org/s/eskwTqM3ZCzsd3j" target="_blank">Exceptions in Java: Basics, Advanced Concepts, and Real API Examples.pdf</a>**  
-5. **<a href="https://my.opendesktop.org/s/zRanfsnqZD63LdS" target="_blank">Git and GitHub .pdf</a>**  
-6. **<a href="https://my.opendesktop.org/s/HERDtJ7rQLYxKxq" target="_blank">Hands-On Selenium WebDriver with Java.pdf</a>**  
-7. **<a href="https://my.opendesktop.org/s/846tpKya26PdD2A" target="_blank">Java 8 Exception Handling.pdf</a>**  
-8. **<a href="https://my.opendesktop.org/s/G5RgHkCCDqt3bap" target="_blank">Java 8 to 21 (2023).pdf</a>**  
-9. **<a href="https://my.opendesktop.org/s/D7Gex9kLyjAb7bb" target="_blank">Java Coding Questions.pdf</a>**  
-10. **<a href="https://my.opendesktop.org/s/inxGGGbdb2f3xQ9" target="_blank">Java Complete Notes📚.pdf</a>**  
-11. **<a href="https://my.opendesktop.org/s/iLdPp3RpTCFLiq4" target="_blank">Java Fundamentals Basics.pdf</a>**  
-12. **<a href="https://my.opendesktop.org/s/ZoFT9FbxCinFCYs" target="_blank">Java in one notes.pdf</a>**  
-13. **<a href="https://my.opendesktop.org/s/j6Gc8MSEspmzC7Z" target="_blank">Java Programming .pdf</a>**  
-14. **<a href="https://my.opendesktop.org/s/jkcARWTYxWQ66Sq" target="_blank">Lafore Robert - Data Structures and Algorithms in Java.pdf</a>**  
-15. **<a href="https://my.opendesktop.org/s/c2jqxAqNSRqtXm5" target="_blank">MGH Java The Complete Reference 13th Edition.epub</a>**  
-16. **<a href="https://my.opendesktop.org/s/y3oiaRZSNzxQ9P4" target="_blank">OOPS Concept in Java .pdf</a>**  
-17. **<a href="https://my.opendesktop.org/s/SYqG3aGf7r83ijy" target="_blank">OOPS Notes 💡.pdf</a>**  
-18. **<a href="https://my.opendesktop.org/s/3AEQkiJ4DBND5jE" target="_blank">Quick Java.pdf</a>**  
-19. **<a href="https://my.opendesktop.org/s/rdy34xMFxnWytHS" target="_blank">Selenium .pdf</a>**  
-20. **<a href="https://my.opendesktop.org/s/NbW8d8eyTcEF9Rm" target="_blank">Spring Boot QA.pdf</a>**  
+1. **[A Functional Approach to Java Augmenting Object.pdf](https://my.opendesktop.org/s/NnMWnLy34orFqsA){:target="_blank"}**
+2. **[Core Java Notes.pdf](https://my.opendesktop.org/s/YyiGDLFZ6QMDYEH){:target="_blank"}**
+3. **[Core Java.pdf](https://my.opendesktop.org/s/Z5mSPcQ9jF4adxJ){:target="_blank"}**
+4. **[Exceptions in Java: Basics, Advanced Concepts, and Real API Examples.pdf](https://my.opendesktop.org/s/eskwTqM3ZCzsd3j){:target="_blank"}**
+5. **[Git and GitHub.pdf](https://my.opendesktop.org/s/zRanfsnqZD63LdS){:target="_blank"}**
+6. **[Hands-On Selenium WebDriver with Java.pdf](https://my.opendesktop.org/s/HERDtJ7rQLYxKxq){:target="_blank"}**
+7. **[Java 8 Exception Handling.pdf](https://my.opendesktop.org/s/846tpKya26PdD2A){:target="_blank"}**
+8. **[Java 8 to 21 (2023).pdf](https://my.opendesktop.org/s/G5RgHkCCDqt3bap){:target="_blank"}**
+9. **[Java Coding Questions.pdf](https://my.opendesktop.org/s/D7Gex9kLyjAb7bb){:target="_blank"}**
+10. **[Java Complete Notes📚.pdf](https://my.opendesktop.org/s/inxGGGbdb2f3xQ9){:target="_blank"}**
+11. **[Java Fundamentals Basics.pdf](https://my.opendesktop.org/s/iLdPp3RpTCFLiq4){:target="_blank"}**
+12. **[Java in one notes.pdf](https://my.opendesktop.org/s/ZoFT9FbxCinFCYs){:target="_blank"}**
+13. **[Java Programming.pdf](https://my.opendesktop.org/s/j6Gc8MSEspmzC7Z){:target="_blank"}**
+14. **[Lafore Robert - Data Structures and Algorithms in Java.pdf](https://my.opendesktop.org/s/jkcARWTYxWQ66Sq){:target="_blank"}**
+15. **[MGH Java The Complete Reference 13th Edition.epub](https://my.opendesktop.org/s/c2jqxAqNSRqtXm5){:target="_blank"}**
+16. **[OOPS Concept in Java.pdf](https://my.opendesktop.org/s/y3oiaRZSNzxQ9P4){:target="_blank"}**
+17. **[OOPS Notes 💡.pdf](https://my.opendesktop.org/s/SYqG3aGf7r83ijy){:target="_blank"}**
+18. **[Quick Java.pdf](https://my.opendesktop.org/s/3AEQkiJ4DBND5jE){:target="_blank"}**
+19. **[Selenium.pdf](https://my.opendesktop.org/s/rdy34xMFxnWytHS){:target="_blank"}**
+20. **[Spring Boot QA.pdf](https://my.opendesktop.org/s/NbW8d8eyTcEF9Rm){:target="_blank"}**
 
 ## Additional Resources
 
 For more in-depth information and examples, explore the following cheat sheets and guides:
 
-- **<a href="https://my.opendesktop.org/s/fASe2wwqzm2WmNC" target="_blank">Java Collections Cheat Sheet.png</a>**  
-- **<a href="https://my.opendesktop.org/s/CENEaxnij7dLNKc" target="_blank">Checked Exception Diagram.png</a>**  
+- **[Java Collections Cheat Sheet.png](https://my.opendesktop.org/s/fASe2wwqzm2WmNC){:target="_blank"}**
+- **[Checked Exception Diagram.png](https://my.opendesktop.org/s/CENEaxnij7dLNKc){:target="_blank"}**
 
-> **Note:** Use PDF & EPUB viewers to see the files' content. Below are two recommended viewers with no ads and free of charge:
+## Youtube Videos
 
-- **<a href="https://github.com/mate-desktop/atril/releases/download/v1.28.0/atril-1.28.0.tar.xz" target="_blank">Atril Document Viewer for Linux</a>**  
-  **Note:** [For more info on GitHub](https://github.com/mate-desktop/atril?tab=readme-ov-file)  
-
-- **<a href="https://portableapps.com/redir2/?a=SumatraPDFPortable&s=s&d=pa&f=SumatraPDFPortable_3.5.2.paf.exe" target="_blank">Sumatra PDF Portable for Windows</a>**  
-  **Note:** [Download from the official site](https://www.sumatrapdfreader.org/download-free-pdf-viewer)  
-
-
-## Youtube videos
 1. **Core Java**  
-   First comes the fundamentals of Java Programming, here you will understand OOP concepts, conditional statements, collection frameworks, and many more.  
+   First comes the fundamentals of Java Programming. Here, you will understand OOP concepts, conditional statements, collection frameworks, and many more.  
    [Watch Now](https://youtube.com/playlist?list=PLd3UqWTnYXOnjGmyjD3zbIkyLXP15-6w0&si=UYvQhVNlZQYCH1Il){:target="_blank"}
 
 2. **JDBC**  
@@ -71,7 +142,7 @@ For more in-depth information and examples, explore the following cheat sheets a
    [Watch Now](https://youtu.be/7S_tz1z_5bA){:target="_blank"}
 
 4. **JSP + Servlet**  
-   Learn JSP and Servlet, which are used for writing web pages for web applications and handling client requests on the server-side.  
+   Learn JSP and Servlet, used for writing web pages for web applications and handling client requests on the server-side.  
    [Watch Now](https://youtube.com/playlist?list=PLE0F6C1917A427E96&si=TQeOIgluG3R29622){:target="_blank"}
 
 5. **Spring Framework**  
@@ -114,5 +185,5 @@ For more in-depth information and examples, explore the following cheat sheets a
     JMS is a standard Java API that allows a Java application to send messages to another application.  
     [Watch Now](https://youtube.com/playlist?list=PLmCsXDGbJHdibOx6axScPiuHA8ftsrmut&si=J0qjBSbB4GDCeTOv){:target="_blank"}
 
-Happy Learning!
-Happy coding!
+Happy Learning!  
+Happy Coding!
