@@ -144,6 +144,47 @@ To download the complete course, click the link below:
 ## Who This Course Is For
 - Beginners wanting to learn Spring Framework 6 and Spring Boot 3 from scratch.
 
+# Generative AI for Dynamic Java Web Applications with ChatGPT
+**Note :**
+    ### What You Will Learn:
+
+- **Automatic Code Generation**  
+  Utilize ChatGPT to automatically generate Java code needed for building your web applications, reducing development time.
+
+- **Building Dynamic Web Applications**  
+  Develop web applications using Java, Servlet, and JSP technologies that adapt and change based on user interactions.
+
+- **Deployment and Management of Web Applications**  
+  Deploy your web applications on an Apache Tomcat server and manage them efficiently.
+
+- **Database Design and Connection**  
+  Design databases with MySQL and connect your web applications to them using JDBC.
+
+- **Use Development Tools**  
+  Write and manage your code with Eclipse EE, a robust integrated development environment.
+
+- **Implement AI Features**  
+  Incorporate AI features into your web applications with ChatGPT’s guidance to enhance user engagement and automate complex tasks.
+
+- **Web Application Optimization**  
+  Optimize your web applications for better performance, enhanced security, and increased scalability.
+
+- **Effective Database Management**  
+  Manage your databases efficiently using MySQL Workbench tools.
+
+- **Automate Complex Tasks**  
+  Leverage AI to automate complex web development tasks through generated code.
+
+- **Best Practices in Java Web Development**  
+  Build high-quality, stable web applications by following industry best practices.
+
+---
+
+**Download Links:**
+
+1. [Download part 1](https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_for_Dynamic_Java_Web_Applications_with_ChatGPT_2024-7.part1_Downloadly.ir.rar?nocache=1726130248)
+2. [Download part 2](https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_for_Dynamic_Java_Web_Applications_with_ChatGPT_2024-7.part2_Downloadly.ir.rar?nocache=1726130248)
+3. [Download part 3](https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_for_Dynamic_Java_Web_Applications_with_ChatGPT_2024-7.part3_Downloadly.ir.rar?nocache=1726130248)
 
 > ## Download Links
 
