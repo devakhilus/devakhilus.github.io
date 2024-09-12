@@ -144,6 +144,16 @@ To download the complete course, click the link below:
 ## Who This Course Is For
 - Beginners wanting to learn Spring Framework 6 and Spring Boot 3 from scratch.
 
+> ## Download Links
+
+> - [Part 1](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part1_Downloadly.ir.rar?nocache=1725595125)
+> - [Part 2](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part2_Downloadly.ir.rar?nocache=1725595125)
+> - [Part 3](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part3_Downloadly.ir.rar?nocache=1725595125)
+> - [Part 4](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part4_Downloadly.ir.rar?nocache=1725595125)
+> - [Part 5](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part5_Downloadly.ir.rar?nocache=1725595125)
+
+
+
 # Generative AI for Dynamic Java Web Applications with ChatGPT
 **Note :**
     ### What You Will Learn:
@@ -186,13 +196,7 @@ To download the complete course, click the link below:
 2. [Download part 2](https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_for_Dynamic_Java_Web_Applications_with_ChatGPT_2024-7.part2_Downloadly.ir.rar?nocache=1726130248)
 3. [Download part 3](https://dl2.downloadly.ir/Files/Elearning/Udemy_Generative_AI_for_Dynamic_Java_Web_Applications_with_ChatGPT_2024-7.part3_Downloadly.ir.rar?nocache=1726130248)
 
-> ## Download Links
 
-> - [Part 1](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part1_Downloadly.ir.rar?nocache=1725595125)
-> - [Part 2](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part2_Downloadly.ir.rar?nocache=1725595125)
-> - [Part 3](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part3_Downloadly.ir.rar?nocache=1725595125)
-> - [Part 4](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part4_Downloadly.ir.rar?nocache=1725595125)
-> - [Part 5](https://dl3.downloadly.ir/Files/Elearning/Udemy_Spring_6_Spring_Boot_3_for_Beginners_Includes_6_Projects_2024_8.part5_Downloadly.ir.rar?nocache=1725595125)
 
 ## Available PDF Resources
 
