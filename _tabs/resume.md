@@ -1,10 +1,10 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-file
 order: 5
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
