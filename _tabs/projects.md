@@ -1,6 +1,6 @@
 ---
+title: Projects
 icon: fas fa-stream
-icon: fas fa-project-diagram
 order: 6
 ---
 
@@ -65,23 +65,24 @@ order: 6
 
 <h2><i class="fas fa-stream"></i> Project Showcase</h2>
 <div id="github-projects">
-    <!-- Projects will be injected here /home/akhilus/Documents/github/devakhilus.github.io/_tabs/projects.md-->
+    <!-- Projects will be injected here -->
 </div>
 
 <script>
     async function loadProjects() {
         try {
             const username = 'devakhilus'; // Replace with your GitHub username
+            const token = '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'; // Replace with your GitHub personal access token
             const url = `https://api.github.com/users/${username}/repos`;
             console.log('Fetching projects from URL:', url); // Log the URL being fetched
 
-            const response = await fetch(url);
+            const response = await fetch(url, {
+                headers: {
+                    'Authorization': `token ${token}`
+                }
+            });
             
-<<<<<<< HEAD
-            if (!response.ok) { c
-=======
-            if (!response.ok) { 
->>>>>>> 729e729 (project)
+            if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
 
