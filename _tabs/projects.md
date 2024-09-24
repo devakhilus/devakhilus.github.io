@@ -71,8 +71,18 @@ order: 6
 <script>
     async function loadProjects() {
         try {
-            const response = await fetch('{{ "/assets/projects.json" | relative_url }}');
+            const username = 'devakhilus'; // Replace with your GitHub username
+            const url = `https://api.github.com/users/${username}/repos`;
+            console.log('Fetching projects from URL:', url); // Log the URL being fetched
+
+            const response = await fetch(url);
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
             const repos = await response.json();
+            console.log('Fetched repos:', repos); // Log the fetched repos
 
             const excludedRepos = ['devakhilus.github.io', 'devakhilus']; // Repos to exclude
             const projectContainer = document.getElementById('github-projects');
