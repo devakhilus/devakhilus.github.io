@@ -12,7 +12,6 @@ order: 6
     <title>Project Showcase</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
-        /* Style for the project items */
         .project-item summary {
             font-size: 18px;
             font-weight: bold;
@@ -31,7 +30,7 @@ order: 6
 
         .project-item div {
             padding: 10px;
-            background-color: rgba(245, 245, 245, 0.2); /* Lighter inner background */
+            background-color: rgba(245, 245, 245, 0.2);
             border-radius: 5px;
             transition: max-height 0.4s ease-in-out;
             overflow: hidden;
@@ -39,7 +38,7 @@ order: 6
         }
 
         .project-item[open] div {
-            max-height: 1000px; /* Allows space for expanded content */
+            max-height: 1000px;
             padding: 15px;
         }
 
@@ -72,28 +71,21 @@ order: 6
     async function loadProjects() {
         try {
             const username = 'devakhilus'; // Replace with your GitHub username
-            const token = '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'; // Replace with your GitHub personal access token
             const url = `https://api.github.com/users/${username}/repos`;
-            console.log('Fetching projects from URL:', url); // Log the URL being fetched
 
-            const response = await fetch(url, {
-                headers: {
-                    'Authorization': `token ${token}`
-                }
-            });
-            
+            const response = await fetch(url);
+
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
 
             const repos = await response.json();
-            console.log('Fetched repos:', repos); // Log the fetched repos
 
             const excludedRepos = ['devakhilus.github.io', 'devakhilus']; // Repos to exclude
             const projectContainer = document.getElementById('github-projects');
 
             repos
-                .filter(repo => !excludedRepos.includes(repo.name)) // Filter out the excluded repos
+                .filter(repo => !excludedRepos.includes(repo.name)) // Filter out excluded repos
                 .forEach(repo => {
                     // Create the structure for each project item
                     const projectItem = document.createElement('details');
