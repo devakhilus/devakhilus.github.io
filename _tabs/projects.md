@@ -1,5 +1,4 @@
 ---
-
 icon: fas fa-stream
 icon: fas fa-project-diagram
 order: 6
@@ -70,11 +69,9 @@ order: 6
 </div>
 
 <script>
-    async function fetchGitHubRepos() {
-        const username = "devakhilus"; // Your GitHub username
-        const apiUrl = `https://api.github.com/users/${username}/repos`;
+    async function loadProjects() {
         try {
-            const response = await fetch(apiUrl);
+            const response = await fetch('{{ "/assets/projects.json" | relative_url }}');
             const repos = await response.json();
 
             const excludedRepos = ['devakhilus.github.io', 'devakhilus']; // Repos to exclude
@@ -105,12 +102,12 @@ order: 6
                     projectContainer.appendChild(projectItem);
                 });
         } catch (error) {
-            console.error('Error fetching repositories:', error);
+            console.error('Error loading projects:', error);
         }
     }
 
-    // Fetch repositories when the page loads
-    document.addEventListener('DOMContentLoaded', fetchGitHubRepos);
+    // Load projects when the page loads
+    document.addEventListener('DOMContentLoaded', loadProjects);
 </script>
 
 </body>
