@@ -77,7 +77,11 @@ order: 6
 
             const response = await fetch(url);
             
+<<<<<<< HEAD
             if (!response.ok) { c
+=======
+            if (!response.ok) { 
+>>>>>>> 729e729 (project)
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
 
