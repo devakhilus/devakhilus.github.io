@@ -230,4 +230,4 @@ jekyll-archives:
 
 # Add the projects.html to the header_pages
 header_pages:
-  - projects.html
+  - _tabs/projects.md
