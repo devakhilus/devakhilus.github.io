@@ -1,3 +1,5 @@
+# _config.yml
+
 # The Site Configuration
 
 # Import the theme
@@ -226,3 +228,6 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+# Add the projects.html to the header_pages
+header_pages:
+  - projects.html
