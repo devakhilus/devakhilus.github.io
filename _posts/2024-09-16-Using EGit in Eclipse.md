@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using EGit in Eclipse for GitHub Integration"
+title: "Using"
 date: 2024-09-16
 categories: Git, Eclipse, Development
 tags: Git, Eclipse, EGit, Tutorial
