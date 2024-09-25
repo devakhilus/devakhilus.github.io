@@ -99,6 +99,18 @@
                     projectItem.appendChild(projectSummary);
                     projectItem.appendChild(projectInfo);
 
+                    // Add event listener for the toggle behavior
+                    projectItem.addEventListener('toggle', function() {
+                        if (this.open) {
+                            // Close all other open details elements
+                            document.querySelectorAll('.project-item').forEach(item => {
+                                if (item !== this) {
+                                    item.open = false;
+                                }
+                            });
+                        }
+                    });
+
                     // Append the project item to the container
                     projectContainer.appendChild(projectItem);
                 });
