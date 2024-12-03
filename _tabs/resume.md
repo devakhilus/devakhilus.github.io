@@ -13,7 +13,7 @@ order: 5
   <link rel="canonical" href="https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume%20(2)_removed.pdf" />
 </head>
 <body>
-  <h2>Resume PDF</h2>
+  <h2>Resume PDF..</h2>
 
   <!-- Use an iframe to embed the PDF -->
   <iframe src="https://docs.google.com/viewer?url=https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume%20(2)_removed.pdf&embedded=true" 
