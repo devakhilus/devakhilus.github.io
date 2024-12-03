@@ -22,7 +22,7 @@ order: 5
 
   <!-- Provide a download link -->
   <p>If the PDF is not displayed, you can download it using the link below:</p>
-  <a href="https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume-1.pdf.pdf" download>Download PDF</a>
+  <a href="https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume-1.pdf" download>Download PDF</a>
 </body>
 </html>
 
