@@ -10,13 +10,13 @@ order: 5
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Resume PDF</title>
-  <link rel="canonical" href="https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume%20(2)_removed.pdf" />
+  <link rel="canonical" href="https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume-1.pdf" />
 </head>
 <body>
   <h2>Resume PDF..</h2>
 
   <!-- Use an iframe to embed the PDF -->
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume%20(2)_removed.pdf&embedded=true" 
+  <iframe src="https://docs.google.com/viewer?url=https://github.com/usakhil121/usakhil121.github.io/raw/main/Resume-1.pdf&embedded=true" 
           width="100%" height="600px" style="border: none;">
   </iframe>
 
