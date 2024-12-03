@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Download Course: Videos and PDFs"
-date: 2024-08-06
+date: 2027-08-06
 categories: Courses, Downloads
 tags: Download, Course
 ---
