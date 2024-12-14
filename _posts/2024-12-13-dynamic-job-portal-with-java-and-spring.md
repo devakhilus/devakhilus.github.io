@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dynamic Job Portal with Java and Spring"
+title: "Dynamic Job Portal with Java and Spring Boot"
 date: 2024-12-13
 categories: Java, Full-Stack, Web Development, Project
-tags: Java, Full-Stack, Development, Job Portal, Spring Framework
+tags: Java, Full-Stack, Development, Job Portal, Spring Framework, Spring Boot
 ---
 
 <details>
@@ -62,7 +62,7 @@ tags: Java, Full-Stack, Development, Job Portal, Spring Framework
 <div>
 <ul>
   <li>Java</li>
-  <li>Spring Framework</li>
+  <li>Spring Boot Framework</li>
   <li>Thymeleaf for Frontend Rendering</li>
   <li>Database Integration (MySQL or PostgreSQL)</li>
   <li>Spring Security for Authentication</li>
