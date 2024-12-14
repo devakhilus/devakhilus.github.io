@@ -93,6 +93,7 @@
                         <p><strong>Description:</strong> ${repo.description || 'No description available.'}</p>
                         <p><strong>Language:</strong> ${repo.language || 'N/A'}</p>
                         <p><a href="${repo.html_url}" target="_blank">View Repository</a></p>
+                        ${repo.homepage ? `<p><a href="${repo.homepage}" target="_blank">Visit Hosting Site</a></p>` : ''}
                     `;
 
                     // Append summary and info to the project item
