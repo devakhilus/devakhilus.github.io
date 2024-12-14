@@ -50,13 +50,21 @@ tags: Java, Full-Stack, Development, Job Portal, Spring Framework
 </details>
 
 <details>
+<summary> Data Flow Diagram (DFD)</summary>
+<div>
+<p>Below is the Data Flow Diagram (DFD) for the system:</p>
+<img src="https://github.com/devakhilus/devakhilus.github.io/raw/main/preview.jpg" alt="Data Flow Diagram">
+</div>
+</details>
+
+<details>
 <summary> Technologies Used</summary>
 <div>
 <ul>
   <li>Java</li>
   <li>Spring Framework</li>
   <li>Thymeleaf for Frontend Rendering</li>
-  <li>Database Integration (MySQL)</li>
+  <li>Database Integration (MySQL or PostgreSQL)</li>
   <li>Spring Security for Authentication</li>
 </ul>
 </div>
@@ -85,3 +93,4 @@ tags: Java, Full-Stack, Development, Job Portal, Spring Framework
 </ul>
 </div>
 </details>
+
