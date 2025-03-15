@@ -2,8 +2,8 @@
 layout: post
 title: "Creating Your First Java Project in Eclipse"
 date: 2024-02-12
-categories: Java, Development, Eclipse
-tags: Java, Eclipse, IDE, Tutorial
+categories: Java, Full-Stack, Roadmap, java intro
+tags: Java, Full-Stack, Development, Learning Path, Skills, Eclipse, IDE, Tutorial
 ---
 
 ### Creating Your First Java Project in Eclipse

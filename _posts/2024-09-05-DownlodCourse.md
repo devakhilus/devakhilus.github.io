@@ -2,8 +2,8 @@
 layout: post
 title: "Download Course: Videos and PDFs"
 date: 2027-08-06
-categories: Courses, Downloads
-tags: Download, Course
+categories: Java, Full-Stack, Roadmap, java intro, Courses, Downloads
+tags: Java, Full-Stack, Development, Learning Path, Skills, Eclipse, IDE, Tutorial, Download, Course
 ---
 
 ## Download the Course (Videos)

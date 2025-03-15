@@ -2,8 +2,8 @@
 layout: post
 title: "Understanding Your First Java Code"
 date: 2024-02-13
-categories: Java, Development
-tags: Java, Tutorial, Programming Basics
+categories: Java, Full-Stack, Roadmap, java intro
+tags: Java, Full-Stack, Development, Learning Path, Skills, Eclipse, IDE, Tutorial ,javacode
 ---
 
 ### Understanding Your First Java Code

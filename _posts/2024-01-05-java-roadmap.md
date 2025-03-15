@@ -2,7 +2,7 @@
 layout: post
 title: "Java Full-Stack Developer Roadmap"
 date: 2024-01-05
-categories: Java, Full-Stack, Roadmap
+categories: Java, Full-Stack, Roadmap, java intro
 tags: Java, Full-Stack, Development, Learning Path, Skills
 ---
 

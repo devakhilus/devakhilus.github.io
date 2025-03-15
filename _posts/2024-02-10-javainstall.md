@@ -2,8 +2,8 @@
 layout: post
 title: "Installing Java for Development on Windows and Linux"
 date: 2024-02-10
-categories: Java, Development
-tags: Java, Installation, Windows, Linux, Development
+categories: Java, Full-Stack, Roadmap, java intro
+tags: Java, Full-Stack, Development, Learning Path, Skills
 ---
 
 ### Installing Java for Development

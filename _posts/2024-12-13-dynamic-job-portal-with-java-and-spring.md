@@ -2,8 +2,9 @@
 layout: post
 title: "Dynamic Job Portal with Java and Spring Boot"
 date: 2024-12-13
-categories: Java, Full-Stack, Web Development, Project
-tags: Java, Full-Stack, Development, Job Portal, Spring Framework, Spring Boot
+
+categories: Java, Full-Stack, Roadmap, java intro,Full-Stack, Web Development, Project
+tags: Java, Full-Stack, Development, Learning Path, Skills, Eclipse, IDE, Tutorial, Full-Stack, Development, Job Portal, Spring Framework, Spring Boot
 ---
 
 <details>

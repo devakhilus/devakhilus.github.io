@@ -2,8 +2,8 @@
 layout: post
 title: "Writing Java Code: Eclipse vs. JetBrains IDEs"
 date: 2024-02-11
-categories: Java, Development, IDEs
-tags: Java, Eclipse, JetBrains, Development, IDE Comparison
+categories: Java, Full-Stack, Roadmap, java intro
+tags: Java, Full-Stack, Development, Learning Path, Skills, Ide
 ---
 
 ### Writing Java Code Using Eclipse and JetBrains IDEs

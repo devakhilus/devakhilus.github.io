@@ -2,8 +2,8 @@
 layout: post
 title: "Java Version History"
 date: 2024-02-09
-categories: Java, Development, Roadmap
-tags: Java, Version History, Development, Learning Path
+categories: Java, Full-Stack, Roadmap, java intro
+tags: Java, Full-Stack, Development, Learning Path, Skills
 ---
 
 ### Java Version History

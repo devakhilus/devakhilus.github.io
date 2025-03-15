@@ -152,7 +152,7 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
+paginate_path: "/java/page:num/"
 # The base URL of your site
 baseurl: ""
 
@@ -231,3 +231,5 @@ jekyll-archives:
 # Add the projects.html to the header_pages
 header_pages:
   - _tabs/projects.md
+  - _tabs/php.md
+  - _tabs/java.md
