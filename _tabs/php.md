@@ -8,7 +8,7 @@ entries_layout: list
 pagination:
   enabled: true
   category: php
-  per_page: 8
+  per_page: 10
 ---
 
 
