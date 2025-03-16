@@ -1,0 +1,71 @@
+<footer class="site-footer">
+    <p>&copy; 2024 <strong>Akhil US</strong></p>
+    <p id="digital-clock" class="digital-clock"></p>
+</footer>
+
+<style>
+  .site-footer {
+      background: var(--global-bg);
+      color: var(--global-text-color);
+      text-align: center;
+      padding: 20px 10px;
+      font-family: Arial, sans-serif;
+      transition: background 0.5s ease-in-out, color 0.5s ease-in-out;
+      position: relative;
+      overflow: hidden;
+  }
+
+  /* Digital clock styling */
+  .digital-clock {
+      font-size: 20px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      margin-top: 5px;
+  }
+
+  /* Blinking colon effect */
+  .digital-clock span.colon {
+      animation: blink 1s infinite alternate;
+  }
+
+  @keyframes blink {
+      0% { opacity: 1; }
+      100% { opacity: 0; }
+  }
+
+  /* Floating animation */
+  .site-footer:hover {
+      animation: floatFooter 1.5s ease-in-out infinite alternate;
+  }
+
+  @keyframes floatFooter {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(-5px); }
+  }
+</style>
+
+<script>
+  function updateClock() {
+      const now = new Date();
+
+      // Convert to IST manually
+      const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+      const istOffset = 5.5 * 60 * 60 * 1000; // IST is UTC +5:30
+      const istTime = new Date(utc + istOffset);
+
+      const day = istTime.toLocaleString("en-US", { weekday: "long" });
+      let hours = istTime.getHours();
+      let minutes = istTime.getMinutes();
+      let seconds = istTime.getSeconds();
+
+      // Format time to always show two digits
+      hours = hours < 10 ? "0" + hours : hours;
+      minutes = minutes < 10 ? "0" + minutes : minutes;
+      seconds = seconds < 10 ? "0" + seconds : seconds;
+
+      document.getElementById("digital-clock").innerHTML = `${day}, ${hours}<span class="colon">:</span>${minutes}<span class="colon">:</span>${seconds}`;
+  }
+
+  updateClock();
+  setInterval(updateClock, 1000); // Update every second
+</script>
