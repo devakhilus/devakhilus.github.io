@@ -1,6 +1,6 @@
 ---
 title: "Understanding Data Types in PHP"
-date: 2025-03-15
+date: 2025-03-16
 layout: post
 categories: php
 tags: [php, tutorial]
