@@ -4,7 +4,7 @@ date: 2025-03-16
 layout: post
 categories: php
 tags: [php, tutorial]
-permalink: /php/getting-started/
+permalink: /php/Understanding-Data-Types-in-PHP/
 ---
 
 # Understanding Data Types in PHP
